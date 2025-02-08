@@ -23,8 +23,8 @@ bool isPalindrome(int x) {
             else 
                 continue;
         }
-    return 0;
-    }
+return 0;
+}
 };
 // @lc code=end
 
